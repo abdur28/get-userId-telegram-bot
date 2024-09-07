@@ -1,6 +1,5 @@
 "use client";
 
-import {  useState } from "react";
 import { useInitData } from "@telegram-apps/sdk-react";
 
 export const UserIdPage = () => {
